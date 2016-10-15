@@ -6,7 +6,9 @@ x + y = 8
 
 x = ? , y = ?
 
-```$ python exercise_1.py```
+```
+$ python exercise_1.py
+```
 
 ```
 sat
